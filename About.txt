@@ -1,0 +1,42 @@
+#Task overview: Task 1: Data analysis
+
+What you'll learn
+- How to use Tableau to visualise data
+
+What you'll do
+- Analyse the client's data
+- Create a dashboard using Tableau
+
+Task overview: Task 2: Forensic technology
+
+What you'll learn
+- How to help a client draw conclusions from data
+
+What you'll do
+- Add a column to classify data in an Excel sheet
+
+Deloitte Australia Data Analytics Job Simulation on Forage - August 2025
+- Completed a Deloitte job simulation involving data analysis and forensic technology 
+- Created a data dashboard using Tableau 
+- Used Excel to classify data and draw business conclusions
+
+Interview Tip
+In a typical interview you’ll be asked “why are you interested in this role?” or “why are you interested in working at our company?”. Use this interview tip to explain why you want the job.
+
+“Why are you interested in this role?”
+I recently participated in Deloitte's job simulation on the Forage platform, and it was incredibly useful to understand what it might be like to be part of the team at Deloitte.
+I was able to analyse data and create a dashboard. I practised using Tableau and Excel and built my data analysis skills in a real-world context.
+Doing this program confirmed that I really enjoy working on technology problems for clients and I'm excited to apply these skills on a team at a company like Deloitte.
+
+Make the most of your achievements
+Completing a job simulation has made you more prepared for the job. Use these achievements to stand out from the crowd!
+Resume Snippet
+A summary of what you learned for you to add to the ‘certification’ or ‘extracurricular’ section of your resume. Recruiters will see you're motivated and interested in the role.
+Interview Tip
+Interviewers will ask you “Why do you want to work here?” and “Why this role?” This tip recaps the key job sim tasks and skills to help you craft the perfect answer.
+Certificate
+Make your LinkedIn profile stand out by adding your job sim certificate to the Licenses & Certifications section.
+Skills
+Add the job sim skills to your resume and LinkedIn to show you’re ready for the job.
+Job Prep Tip
+An exclusive look into the application process to help you prepare and get ahead. Only available for select job sims.
